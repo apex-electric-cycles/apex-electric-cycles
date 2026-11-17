@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "site": "https://apexelectriccycles.com/gear.html",
+  "siteProjectId": "appgprj_6ad5a0d125448191885015ba7a756d05",
+  "repository": "apex-electric-cycles/apex-electric-cycles",
+  "branch": "main",
+  "catalogPath": "gear/catalog.json",
+  "associateTag": "apexdigital06-20",
+  "timezone": "America/Chicago",
+  "catalogWriter": {
+    "method": "Use connected GitHub fetch_file, then update_file with the current blob SHA; read back and compare the saved products and updatedAt.",
+    "publicFeed": "https://raw.githubusercontent.com/apex-electric-cycles/apex-electric-cycles/main/gear/catalog.json",
+    "siteBehavior": "Gear reads this durable feed on each visit; no Site redeployment is needed for catalog updates. On fetch failure it shows a dated local snapshot. Do not edit other repository files."
+  },
+  "criteria": {
+    "minimumAmazonRating": 4,
+    "regularCategoryTargets": {
+      "premium": 10,
+      "unique": 5
+    },
+    "categories": [
+      "Tubes and tires",
+      "Conversion kits",
+      "Seats",
+      "Handlebars",
+      "Lighting",
+      "Tools",
+      "Batteries",
+      "Parts",
+      "Apparel",
+      "Outdoor adventure",
+      "Accessories"
+    ],
+    "clearanceTarget": 20,
+    "clearanceThresholdPercent": 30,
+    "clearanceReference": "Amazon displayed reference/list price, never claim historic low without independent historical evidence.",
+    "clearanceFreshnessDays": 8,
+    "selection": "Favor real product usefulness and distinct options; avoid duplicate seller listings solely to fill slots. Five premium conversion-kit slots remain pending in the initial catalog."
+  },
+  "weeklyRun": [
+    "Read the live catalog and obtain current Amazon US rating and featured-offer evidence for every active ASIN, using accessible primary-source tools. Prefer Amazon Creators API when authorized; Firecrawl Alexandria amazon-com tools are a research alternative and have credit limits. Never buy credits, enable paid services, or claim a completed check when blocked. Batch according to current contracts.",
+    "Check exact served ASIN against requested ASIN, in-stock flag, seller and variant. Unknown, request failure and redirects are not confirmed out of stock. Preserve regular listings on transient source failure and explicitly count them as unverified in the report. Deactivate confirmed unavailable products or ratings below4; replace with verified equivalents.",
+    "For all clearance products, require in-stock true, matching ASIN, Amazon rating>=4 and a currently observed unconditional discount>=30% versus Amazon's displayed reference. Disclose Prime/coupon restrictions in owner report; do not silently count conditional offers as unconditional. Clear clearance=true when the threshold ends or verification fails; keep an otherwise suitable item in its ordinary category. Search verified replacement deals toward20.",
+    "Update public catalog with original short product names, original descriptions, fit notes, ASINs, category, tier, active and clearance metadata only. No scraped star ratings, reviews, exact prices, private evidence, sales, commissions or account details in the public feed. Do not publish a higher completeness count than achieved.",
+    "Save catalog only after field validation, preserve unknown fields and unaffected products, stamp actual evidence time in clearanceCheckedAt and actual catalog change time in updatedAt. Use GitHub SHA concurrency; inspect fresh head on conflict, no blind overwrites. Read back success. On write failure preserve existing catalog and report blocker.",
+    "Send a concise owner report covering verified/unknown/unavailable counts; clearance added/ended/current discount checks; ratings changes; unresolved slots; last performance review if available; source cost/access limits; top3 recommendations. Clearly distinguish the scheduled task executing from all checks successfully completing."
+  ],
+  "images": {
+    "status": "No product photography published at setup: product-image usage rights and authorized API access unverified.",
+    "rules": "Do not copy, remove backgrounds, recolor, crop or generate imitations of actual Amazon product photos. Use permitted Amazon-program image links or documented rights-holder permission. The frontend supports image:{url,rightsVerified:true,expiresAt}; use actual permission and freshness evidence, never assert it merely because an image URL is public. API image URLs expire within permitted caching limits; preserve original proportions. Public illustrations are decorative category symbols, not product photos."
+  },
+  "performance": {
+    "source": "Private Amazon Associates item-level reports supplied through a connected authorized source, Gmail attachments, or Library exports for tracking ID apexdigital06-20. No usable reports found at setup; Amazon rejects the cloud browser client.",
+    "requiredFields": [
+      "report start/end dates",
+      "tracking ID",
+      "ASIN/product ID",
+      "clicks where attributable",
+      "ordered and shipped units",
+      "returns/cancellations",
+      "commission income"
+    ],
+    "review": "Every other week inspect only actual fresh reports for this tracking ID. Do not equate missing reports or missing product-level clicks with zero sales. Do not infer sales from site clicks. If unavailable state that sales optimization did not run and ask for the dated Associates export; do not invent winners/losers.",
+    "rotation": "Use adequate exposure: ordinarily >=100 attributable clicks over at least30 days or >=60 days with meaningful traffic before replacing a zero-shipped-order item. Preserve strategic fit and category targets. Consider adding similar verified products around at least3 shipped non-returned orders in a measured period, prioritizing net commissions, useful variety and >=4 stars. Replace gradually; keep a dated rationale in a private report. No guarantee of income.",
+    "privacy": "Keep all actual sales/earnings reports and performance decisions in private owner reports, never in the public GitHub feed. No purchases or customer communications."
+  }
+}
