@@ -1,0 +1,1694 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-17T02:08:23.316780+00:00",
+  "associateTag": "apexdigital06-20",
+  "products": [
+    {
+      "asin": "B000NNR6SI",
+      "name": "Schwalbe Marathon Plus",
+      "category": "Tubes and tires",
+      "tier": "premium",
+      "description": "Puncture-protection commuter tire",
+      "fitment": "Puncture-protection commuter tire; match the exact ETRTO size and tire rating to the bike.",
+      "active": true
+    },
+    {
+      "asin": "B06WGY3LZ8",
+      "name": "Continental Contact Plus E50",
+      "category": "Tubes and tires",
+      "tier": "premium",
+      "description": "Touring and commuter option",
+      "fitment": "Touring and commuter option; choose the correct diameter and frame clearance.",
+      "active": true
+    },
+    {
+      "asin": "B089Y5ZP8H",
+      "name": "Schwalbe Jumbo Jim Super Ground 26 x 4.8",
+      "category": "Tubes and tires",
+      "tier": "premium",
+      "description": "Wide fat-bike casing",
+      "fitment": "Wide fat-bike casing; verify rim width, fork clearance and load requirements.",
+      "active": true
+    },
+    {
+      "asin": "B00OJXA1FS",
+      "name": "Schwalbe Super Moto-X",
+      "category": "Tubes and tires",
+      "tier": "premium",
+      "description": "Road-oriented wide tire family",
+      "fitment": "Road-oriented wide tire family; confirm selected wheel size and width before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0CC5Y9GVK",
+      "name": "Schwalbe Green Marathon",
+      "category": "Tubes and tires",
+      "tier": "premium",
+      "description": "Commuter and touring tire family with GreenGuard protection",
+      "fitment": "Commuter and touring tire family with GreenGuard protection; match exact ETRTO size, load and speed requirements.",
+      "active": true
+    },
+    {
+      "asin": "B0GNN5YX61",
+      "name": "Schwalbe Marathon Plus MTB 26 x 2.1",
+      "category": "Tubes and tires",
+      "tier": "premium",
+      "description": "Knobbier puncture-protection option for compatible 26-inch wheels.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0D326ZK12",
+      "name": "HEB ALLSCAPE e-bike fat tires, 2-pack",
+      "category": "Tubes and tires",
+      "tier": "premium",
+      "description": "Fat-tire replacement set",
+      "fitment": "Fat-tire replacement set; verify actual size, speed/load limits and tread suitability.",
+      "active": true
+    },
+    {
+      "asin": "B0DHYXS7QB",
+      "name": "Schwalbe G-ONE RS PRO",
+      "category": "Tubes and tires",
+      "tier": "premium",
+      "description": "Gravel tire family for a compatible gravel or light e-bike setup",
+      "fitment": "Gravel tire family for a compatible gravel or light e-bike setup; match width and tubeless system.",
+      "active": true
+    },
+    {
+      "asin": "B07GTK7MB8",
+      "name": "Continental Race King",
+      "category": "Tubes and tires",
+      "tier": "premium",
+      "description": "Mountain-bike tire option",
+      "fitment": "Mountain-bike tire option; choose casing and size to suit the bike and trails.",
+      "active": true
+    },
+    {
+      "asin": "B07C5X5C8D",
+      "name": "Kenda Juggernaut Pro DTC",
+      "category": "Tubes and tires",
+      "tier": "premium",
+      "description": "Fat-bike tire with a different tread choice",
+      "fitment": "Fat-bike tire with a different tread choice; check casing, width and intended e-bike use.",
+      "active": true
+    },
+    {
+      "asin": "B07GTKDXQG",
+      "name": "Schwalbe Marathon Winter Plus 42-622",
+      "category": "Tubes and tires",
+      "tier": "unique",
+      "description": "Studded winter option",
+      "fitment": "Studded winter option; verify clearance and that studs are appropriate for local conditions.",
+      "active": true
+    },
+    {
+      "asin": "B009NN5GDQ",
+      "name": "Schwalbe Fat Frank 26 x 2.35",
+      "category": "Tubes and tires",
+      "tier": "unique",
+      "description": "Balloon-style cruiser tire",
+      "fitment": "Balloon-style cruiser tire; confirm 559 mm bead-seat diameter and frame clearance.",
+      "active": true
+    },
+    {
+      "asin": "B09BJG2VH7",
+      "name": "Schwalbe Aerothan TPU tube 29 x 2.4–3.0",
+      "category": "Tubes and tires",
+      "tier": "unique",
+      "description": "Compact TPU spare for the listed size",
+      "fitment": "Compact TPU spare for the listed size; follow the tube maker's pressure, rim and brake restrictions.",
+      "active": true
+    },
+    {
+      "asin": "B08G891X3K",
+      "name": "Schwalbe Air Plus AV7AP 20-inch tube",
+      "category": "Tubes and tires",
+      "tier": "unique",
+      "description": "Air Plus tube for 40/62-406 tire sizes",
+      "fitment": "Air Plus tube for 40/62-406 tire sizes; match Schrader valve fit and rim diameter.",
+      "active": true
+    },
+    {
+      "asin": "B08GLQGPH3",
+      "name": "26 x 4.0 self-sealing fat-bike tubes, 2-pack",
+      "category": "Tubes and tires",
+      "tier": "unique",
+      "description": "Sealant-filled spare option with Schrader valves",
+      "fitment": "Sealant-filled spare option with Schrader valves; confirm size and inspect the tire for embedded debris.",
+      "active": true
+    },
+    {
+      "asin": "B000HZA918",
+      "name": "Brooks B17",
+      "category": "Seats",
+      "tier": "premium",
+      "description": "Leather touring saddle",
+      "fitment": "Leather touring saddle; allow for fit assessment and leather care.",
+      "active": true
+    },
+    {
+      "asin": "B08H5SSSFB",
+      "name": "Ergon SMC Core",
+      "category": "Seats",
+      "tier": "premium",
+      "description": "Mountain-bike saddle",
+      "fitment": "Mountain-bike saddle; select size from sit-bone width and riding posture.",
+      "active": true
+    },
+    {
+      "asin": "B083MC4K5B",
+      "name": "Ergon SMC",
+      "category": "Seats",
+      "tier": "premium",
+      "description": "Trail saddle option",
+      "fitment": "Trail saddle option; match rider anatomy and saddle width.",
+      "active": true
+    },
+    {
+      "asin": "B09DLFG6Z5",
+      "name": "SQlab 612 Ergowave Active 2.1",
+      "category": "Seats",
+      "tier": "premium",
+      "description": "Sport saddle with active design",
+      "fitment": "Sport saddle with active design; confirm the correct measured width.",
+      "active": true
+    },
+    {
+      "asin": "B09DLCTS6F",
+      "name": "SQlab 611 Ergowave Active 2.1",
+      "category": "Seats",
+      "tier": "premium",
+      "description": "Trail-focused saddle family",
+      "fitment": "Trail-focused saddle family; choose width for the rider's position.",
+      "active": true
+    },
+    {
+      "asin": "B09DLG5GNM",
+      "name": "SQlab 6OX Ergowave Active 2.1",
+      "category": "Seats",
+      "tier": "premium",
+      "description": "E-MTB-oriented saddle family",
+      "fitment": "E-MTB-oriented saddle family; choose size and verify rail-clamp fit.",
+      "active": true
+    },
+    {
+      "asin": "B0GN3FVZNL",
+      "name": "Selle Royal Respiro Stracciatella",
+      "category": "Seats",
+      "tier": "premium",
+      "description": "Comfort saddle for riding around town",
+      "fitment": "Comfort saddle for riding around town; confirm the listed posture version.",
+      "active": true
+    },
+    {
+      "asin": "B07X2TSH9N",
+      "name": "WTB Volt",
+      "category": "Seats",
+      "tier": "premium",
+      "description": "Trail and mixed-use saddle",
+      "fitment": "Trail and mixed-use saddle; select the right width and rail option.",
+      "active": true
+    },
+    {
+      "asin": "B09L58MRFW",
+      "name": "Selle Italia X-Bow Superflow",
+      "category": "Seats",
+      "tier": "premium",
+      "description": "Cutout saddle option for mixed riding",
+      "fitment": "Cutout saddle option for mixed riding; match saddle dimensions and rail clamp.",
+      "active": true
+    },
+    {
+      "asin": "B00FFZ6JFA",
+      "name": "Selle SMP TRK Gel",
+      "category": "Seats",
+      "tier": "premium",
+      "description": "Comfort-oriented saddle with a central channel",
+      "fitment": "Comfort-oriented saddle with a central channel; fit matters more than padding thickness.",
+      "active": true
+    },
+    {
+      "asin": "B075H8N5ZF",
+      "name": "Brooks Cambium C17 Carved",
+      "category": "Seats",
+      "tier": "unique",
+      "description": "Rubber-top alternative to a leather saddle with a central cutout.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0025UCRQI",
+      "name": "Brooks B67",
+      "category": "Seats",
+      "tier": "unique",
+      "description": "Sprung leather saddle for an upright position",
+      "fitment": "Sprung leather saddle for an upright position; verify single-rail clamp compatibility.",
+      "active": true
+    },
+    {
+      "asin": "B0BS3RZGB1",
+      "name": "SQlab 621 M-D Active 2.1",
+      "category": "Seats",
+      "tier": "unique",
+      "description": "Upright city and commuter saddle with a pressure-relief design",
+      "fitment": "Upright city and commuter saddle with a pressure-relief design; size to the rider.",
+      "active": true
+    },
+    {
+      "asin": "B0186OVH6M",
+      "name": "ISM PM 2.0",
+      "category": "Seats",
+      "tier": "unique",
+      "description": "Split-nose mountain-bike saddle",
+      "fitment": "Split-nose mountain-bike saddle; requires careful position and fit adjustment.",
+      "active": true
+    },
+    {
+      "asin": "B0FQPQ7XZ1",
+      "name": "Hurricane adjustable split saddle",
+      "category": "Seats",
+      "tier": "unique",
+      "description": "Width-adjustable split design for riders exploring alternative saddle shapes",
+      "fitment": "Width-adjustable split design for riders exploring alternative saddle shapes; confirm clamp and fit.",
+      "active": true
+    },
+    {
+      "asin": "B0F61DQKG4",
+      "name": "BAFANG M625 mid-drive kit",
+      "category": "Conversion kits",
+      "tier": "premium",
+      "description": "Check bottom-bracket width, chainline, supplied battery requirements and frame compatibility. Listed power options may exceed road e-bike limits.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0DTYF68TN",
+      "name": "BAFANG BBS02B CAN 48V 750W mid-drive kit",
+      "category": "Conversion kits",
+      "tier": "premium",
+      "description": "Match bottom-bracket width, protocol, display and battery voltage",
+      "fitment": "Match bottom-bracket width, protocol, display and battery voltage; confirm exact included parts.",
+      "active": true
+    },
+    {
+      "asin": "B07Y53BXHK",
+      "name": "BAFANG BBSHD/BBS03 1000W mid-drive kit",
+      "category": "Conversion kits",
+      "tier": "premium",
+      "description": "High-power off-road build option",
+      "fitment": "High-power off-road build option; verify frame, drivetrain and battery compatibility. Road classification requires a separate check.",
+      "active": true
+    },
+    {
+      "asin": "B07D2G69JQ",
+      "name": "BAFANG G020 48V 500W front-wheel kit",
+      "category": "Conversion kits",
+      "tier": "premium",
+      "description": "Check fork material, dropout dimensions, torque-arm provision, brakes and selected wheel size.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0DYTRWTQR",
+      "name": "BAFANG G020/G0900 front/rear hub conversion kit",
+      "category": "Conversion kits",
+      "tier": "premium",
+      "description": "Seller offers multiple motor configurations",
+      "fitment": "Seller offers multiple motor configurations; select an exact configuration after checking dropouts, brake mount and battery needs.",
+      "active": true
+    },
+    {
+      "asin": "B0F28Z3BGR",
+      "name": "TSDZ-2B/Z8/TSDZ16 torque-sensing mid-drive kit",
+      "category": "Conversion kits",
+      "tier": "unique",
+      "description": "Torque-sensing alternative",
+      "fitment": "Torque-sensing alternative; seller lists several motors, so verify exact model, bottom bracket, firmware and battery compatibility.",
+      "active": true
+    },
+    {
+      "asin": "B0FNWG9TKP",
+      "name": "36V 350W 26-inch front-wheel conversion kit",
+      "category": "Conversion kits",
+      "tier": "unique",
+      "description": "Lower-power front-wheel option",
+      "fitment": "Lower-power front-wheel option; check fork/dropout suitability and torque-arm requirements.",
+      "active": true
+    },
+    {
+      "asin": "B0C5LS68YR",
+      "name": "36V 500W 24-inch front-wheel conversion kit",
+      "category": "Conversion kits",
+      "tier": "unique",
+      "description": "Uncommon 24-inch fitment option",
+      "fitment": "Uncommon 24-inch fitment option; confirm the wheel's bead-seat diameter and brake compatibility.",
+      "active": true
+    },
+    {
+      "asin": "B09K36PVZH",
+      "name": "20-inch 36V 250W /48V 1000W hub conversion kit",
+      "category": "Conversion kits",
+      "tier": "unique",
+      "description": "Small-wheel conversion family",
+      "fitment": "Small-wheel conversion family; exact voltage and power choice must match controller, battery and intended use.",
+      "active": true
+    },
+    {
+      "asin": "B0BVZDFXLW",
+      "name": "36V 500W 24-inch rear-wheel conversion kit",
+      "category": "Conversion kits",
+      "tier": "unique",
+      "description": "24-inch rear-wheel alternative",
+      "fitment": "24-inch rear-wheel alternative; check rear spacing, freewheel/cassette mount and brake configuration.",
+      "active": true
+    },
+    {
+      "asin": "B084SR2CHP",
+      "name": "Spank Spoon 35",
+      "category": "Handlebars",
+      "tier": "premium",
+      "description": "Alloy trail handlebar for a higher-rise cockpit.",
+      "fitment": "35 mm stem clamp; confirm 40 mm rise and cable/hose reach.",
+      "active": true
+    },
+    {
+      "asin": "B0D3MFN4FC",
+      "name": "PNW Loam Carbon",
+      "category": "Handlebars",
+      "tier": "premium",
+      "description": "Carbon trail cockpit upgrade.",
+      "fitment": "Confirm clamp size, rise and manufacturer torque limits.",
+      "active": true
+    },
+    {
+      "asin": "B07CZ3NZ86",
+      "name": "Renthal Fatbar 35",
+      "category": "Handlebars",
+      "tier": "premium",
+      "description": "Wide alloy trail handlebar.",
+      "fitment": "35 mm clamp; check cable and hose reach.",
+      "active": true
+    },
+    {
+      "asin": "B0DPM7HXV5",
+      "name": "Race Face Era 35",
+      "category": "Handlebars",
+      "tier": "premium",
+      "description": "Premium carbon cockpit for trail builds.",
+      "fitment": "35 mm clamp; follow carbon torque requirements.",
+      "active": true
+    },
+    {
+      "asin": "B006DA52LI",
+      "name": "RaceFace Atlas 31.8",
+      "category": "Handlebars",
+      "tier": "premium",
+      "description": "Stout alloy bar for aggressive trail riding.",
+      "fitment": "31.8 mm clamp; 785 mm listed width.",
+      "active": true
+    },
+    {
+      "asin": "B01DTD4TWY",
+      "name": "Renthal Fatbar Lite Carbon 35",
+      "category": "Handlebars",
+      "tier": "premium",
+      "description": "Carbon bar for a lighter trail cockpit.",
+      "fitment": "35 mm clamp; 20 mm rise listed.",
+      "active": true
+    },
+    {
+      "asin": "B0DMVFZK9S",
+      "name": "PNW Range Gen 4 Alloy",
+      "category": "Handlebars",
+      "tier": "premium",
+      "description": "Comfort-oriented trail cockpit.",
+      "fitment": "Confirm selected rise and 35 mm stem clamp.",
+      "active": true
+    },
+    {
+      "asin": "B0DPM66VZ9",
+      "name": "RaceFace Turbine 35",
+      "category": "Handlebars",
+      "tier": "premium",
+      "description": "Alloy bar with a higher-rise trail position.",
+      "fitment": "35 mm clamp; 800 mm width and 40 mm rise listed.",
+      "active": true
+    },
+    {
+      "asin": "B07HMRB7R2",
+      "name": "Funn Full On Riser",
+      "category": "Handlebars",
+      "tier": "premium",
+      "description": "Alloy trail bar with a modest rise.",
+      "fitment": "31.8 mm clamp; 785 mm width and 15 mm rise listed.",
+      "active": true
+    },
+    {
+      "asin": "B01N14YS3S",
+      "name": "Race Face Aeffect R",
+      "category": "Handlebars",
+      "tier": "premium",
+      "description": "Trail-focused alloy cockpit upgrade.",
+      "fitment": "35 mm clamp; check bar width and control placement.",
+      "active": true
+    },
+    {
+      "asin": "B0734NG8M2",
+      "name": "UPANBIKE Butterfly Trekking Bar",
+      "category": "Handlebars",
+      "tier": "unique",
+      "description": "Multiple hand positions for long touring days.",
+      "fitment": "25.4 mm clamp; verify brake lever and shifter compatibility.",
+      "active": true
+    },
+    {
+      "asin": "B01N236U6O",
+      "name": "Origin8 Strongbow",
+      "category": "Handlebars",
+      "tier": "unique",
+      "description": "Alternative cockpit shape with room for touring gear.",
+      "fitment": "31.8 mm clamp; 760 mm listed width.",
+      "active": true
+    },
+    {
+      "asin": "B07R7XM8N9",
+      "name": "Ritchey Kyote",
+      "category": "Handlebars",
+      "tier": "unique",
+      "description": "Swept-back cockpit for adventure riding.",
+      "fitment": "Check stem clamp, cable reach and preferred hand position.",
+      "active": true
+    },
+    {
+      "asin": "B01MULFTQ5",
+      "name": "Satori Noirette Plus",
+      "category": "Handlebars",
+      "tier": "unique",
+      "description": "Swept moustache shape for an upright touring position.",
+      "fitment": "31.8 mm clamp; 660 mm width and 41 degree sweep listed.",
+      "active": true
+    },
+    {
+      "asin": "B07R2FM1ZY",
+      "name": "Spank Flare 25 Vibrocore",
+      "category": "Handlebars",
+      "tier": "unique",
+      "description": "Flared drop bar for an adventure conversion.",
+      "fitment": "Requires compatible drop-bar controls; not a direct flat-bar swap.",
+      "active": true
+    },
+    {
+      "asin": "B0FGZ24GQT",
+      "name": "Cygolite Metro 850 Plus",
+      "category": "Lighting",
+      "tier": "premium",
+      "description": "Rechargeable front light for commuting.",
+      "fitment": "Check mount diameter and avoid blocking brake controls.",
+      "active": true
+    },
+    {
+      "asin": "B0B7W5KQVQ",
+      "name": "Cygolite Ranger Endurance",
+      "category": "Lighting",
+      "tier": "premium",
+      "description": "High-output front-light family for longer rides.",
+      "fitment": "Select exact lumen/version option; use an appropriate beam angle.",
+      "active": true
+    },
+    {
+      "asin": "B0CFBMFW52",
+      "name": "Cygolite Velocity",
+      "category": "Lighting",
+      "tier": "premium",
+      "description": "Metal-bodied front-light family for road and trail use.",
+      "fitment": "Confirm selected output version and mount fit.",
+      "active": true
+    },
+    {
+      "asin": "B0FNTNQT4H",
+      "name": "NiteRider Lumina Dual 2000",
+      "category": "Lighting",
+      "tier": "premium",
+      "description": "Dual-LED front light for dark trail rides.",
+      "fitment": "Check handlebar fit; avoid dazzling approaching riders.",
+      "active": true
+    },
+    {
+      "asin": "B0FMZKTSV9",
+      "name": "NiteRider Lumina Micro 1150",
+      "category": "Lighting",
+      "tier": "premium",
+      "description": "Compact rechargeable headlight.",
+      "fitment": "Confirm mounting clearance around display and cables.",
+      "active": true
+    },
+    {
+      "asin": "B07QQTPDL7",
+      "name": "Lezyne Macro Drive",
+      "category": "Lighting",
+      "tier": "premium",
+      "description": "Rechargeable front light with strap mounting.",
+      "fitment": "Verify strap fits the handlebar shape and diameter.",
+      "active": true
+    },
+    {
+      "asin": "B0C7SGPNY8",
+      "name": "Lezyne Micro Drive",
+      "category": "Lighting",
+      "tier": "premium",
+      "description": "Compact front light for everyday riding.",
+      "fitment": "Confirm selected model output and mounting clearance.",
+      "active": true
+    },
+    {
+      "asin": "B0C7RVCX6M",
+      "name": "Lezyne Strip Drive Pro Rear",
+      "category": "Lighting",
+      "tier": "premium",
+      "description": "Bright rear visibility light.",
+      "fitment": "Check seatpost mount and clear line of sight past luggage.",
+      "active": true
+    },
+    {
+      "asin": "B07W62CCL2",
+      "name": "Cygolite Hypershot 350",
+      "category": "Lighting",
+      "tier": "premium",
+      "description": "Rear light with adjustable flash behavior.",
+      "fitment": "Confirm seatpost fit and rear visibility.",
+      "active": true
+    },
+    {
+      "asin": "B09K22K9MR",
+      "name": "NiteRider Vmax+ 150",
+      "category": "Lighting",
+      "tier": "premium",
+      "description": "USB-C rear light for commuting.",
+      "fitment": "Mount where bags and racks do not hide the light.",
+      "active": true
+    },
+    {
+      "asin": "B086TVFX1D",
+      "name": "Garmin Varia RTL515",
+      "category": "Lighting",
+      "tier": "unique",
+      "description": "Rear radar combined with a tail light.",
+      "fitment": "Radar alerts require a compatible Garmin device or supported phone setup.",
+      "active": true
+    },
+    {
+      "asin": "B07DGC4WX8",
+      "name": "NiteRider Sentinel 250",
+      "category": "Lighting",
+      "tier": "unique",
+      "description": "Rear light with projected lane-line feature.",
+      "fitment": "Check seatpost fit; projected lines do not create a protected lane.",
+      "active": true
+    },
+    {
+      "asin": "B07CYQBPGT",
+      "name": "Knog Plus Rear",
+      "category": "Lighting",
+      "tier": "unique",
+      "description": "Small rear light with wearable clip options.",
+      "fitment": "Check clip/mount security and visibility.",
+      "active": true
+    },
+    {
+      "asin": "B0C58TNZDD",
+      "name": "Magicshine SEEMEE 300/400",
+      "category": "Lighting",
+      "tier": "unique",
+      "description": "Rear-light family with brake-sensing features.",
+      "fitment": "Confirm chosen model and mounting orientation.",
+      "active": true
+    },
+    {
+      "asin": "B0BV5V1M3S",
+      "name": "Ravemen FR300/FR160",
+      "category": "Lighting",
+      "tier": "unique",
+      "description": "Front visibility light integrated with a bike-computer mount.",
+      "fitment": "Select the exact version and check computer/mount compatibility.",
+      "active": true
+    },
+    {
+      "asin": "B097DZ9XRG",
+      "name": "Park Tool PCS-10.3 Repair Stand",
+      "category": "Tools",
+      "tier": "premium",
+      "description": "Stable work support for maintenance.",
+      "fitment": "Check published weight capacity against complete e-bike mass before clamping.",
+      "active": true
+    },
+    {
+      "asin": "B08DWPMHK8",
+      "name": "Park Tool SK-4 Starter Kit",
+      "category": "Tools",
+      "tier": "premium",
+      "description": "Core workshop tools in one kit.",
+      "fitment": "Confirm included tools cover your drivetrain and fasteners.",
+      "active": true
+    },
+    {
+      "asin": "B0009XSP7I",
+      "name": "Park Tool AWS-1",
+      "category": "Tools",
+      "tier": "premium",
+      "description": "Three-way hex wrench for frequent adjustments.",
+      "fitment": "4, 5 and 6 mm hex sizes; not a torque wrench.",
+      "active": true
+    },
+    {
+      "asin": "B07P4CCJYH",
+      "name": "Park Tool CT-3.3 Chain Tool",
+      "category": "Tools",
+      "tier": "premium",
+      "description": "Bench-style chain pin tool.",
+      "fitment": "Confirm chain compatibility; install links per chain-maker instructions.",
+      "active": true
+    },
+    {
+      "asin": "B000OZBINY",
+      "name": "Park Tool CN-10 Cable Cutter",
+      "category": "Tools",
+      "tier": "premium",
+      "description": "Clean cuts in brake and shift cables/housing.",
+      "fitment": "For mechanical cable systems; not hydraulic hose unless specifically approved.",
+      "active": true
+    },
+    {
+      "asin": "B00D9NW32I",
+      "name": "Park Tool MLP-1.2 Master Link Pliers",
+      "category": "Tools",
+      "tier": "premium",
+      "description": "Opens and closes chain master links.",
+      "fitment": "Confirm chain and master-link compatibility.",
+      "active": true
+    },
+    {
+      "asin": "B00UDUFCGE",
+      "name": "Park Tool Spoke Wrench Set",
+      "category": "Tools",
+      "tier": "premium",
+      "description": "Common nipple sizes for wheel adjustment.",
+      "fitment": "Match exact nipple size; torque and tension require proper technique.",
+      "active": true
+    },
+    {
+      "asin": "B003FPONCI",
+      "name": "Park Tool PH-1.2 Hex Set",
+      "category": "Tools",
+      "tier": "premium",
+      "description": "P-handled hex keys for a home workshop.",
+      "fitment": "Match fastener size; use a separate torque tool where required.",
+      "active": true
+    },
+    {
+      "asin": "B076CX3WDT",
+      "name": "Park Tool ATD-1.2 Torque Driver",
+      "category": "Tools",
+      "tier": "premium",
+      "description": "Controlled tightening of cockpit fasteners.",
+      "fitment": "Check tool range against component torque specification.",
+      "active": true
+    },
+    {
+      "asin": "B01N0XWS64",
+      "name": "Park Tool TW-6.2 Torque Wrench",
+      "category": "Tools",
+      "tier": "premium",
+      "description": "Higher-range torque tool for workshop jobs.",
+      "fitment": "10–60 Nm range; use only where the component specification is within range.",
+      "active": true
+    },
+    {
+      "asin": "B0DNN5FSSH",
+      "name": "Park Tool CC-4.2 Chain Wear Checker",
+      "category": "Tools",
+      "tier": "unique",
+      "description": "Measures wear before it damages other drivetrain parts.",
+      "fitment": "Check supported chain types and measurement method.",
+      "active": true
+    },
+    {
+      "asin": "B0FCSR2QC9",
+      "name": "Park Tool DT-2.2 Rotor Truing Tool",
+      "category": "Tools",
+      "tier": "unique",
+      "description": "Disc-rotor alignment tool.",
+      "fitment": "For suitable rotors; severely damaged rotors require replacement.",
+      "active": true
+    },
+    {
+      "asin": "B005Z4LVG8",
+      "name": "Park Tool Valve Core Remover",
+      "category": "Tools",
+      "tier": "unique",
+      "description": "Small tool for removable valve cores.",
+      "fitment": "Confirm valve type and removable-core design.",
+      "active": true
+    },
+    {
+      "asin": "B09WCCGLHP",
+      "name": "Park Tool PS-1 Pad Spreader",
+      "category": "Tools",
+      "tier": "unique",
+      "description": "Resets suitable disc-brake pads during service.",
+      "fitment": "Follow brake-maker procedure; protect pads and rotor from contamination.",
+      "active": true
+    },
+    {
+      "asin": "B00Y63UMXC",
+      "name": "Park Tool Shop Inflator",
+      "category": "Tools",
+      "tier": "unique",
+      "description": "Compressed-air shop tire inflator.",
+      "fitment": "Requires compatible shop air supply; match valve and pressure limits.",
+      "active": true
+    },
+    {
+      "asin": "B0BLKBDNDL",
+      "name": "Shimano J04C metallic disc brake pads",
+      "category": "Parts",
+      "tier": "premium",
+      "description": "Finned replacement pads for compatible Shimano brakes.",
+      "fitment": "Match the caliper's pad shape and approved compound; one pair.",
+      "active": true,
+      "subtype": "Brake wear"
+    },
+    {
+      "asin": "B07SVMGP4C",
+      "name": "Shimano Deore XT CN-M8100 12-speed chain",
+      "category": "Parts",
+      "tier": "premium",
+      "description": "Drivetrain renewal for compatible Shimano 12-speed systems.",
+      "fitment": "12-speed directional HG+ chain; size length to the bicycle.",
+      "active": true,
+      "subtype": "Drivetrain"
+    },
+    {
+      "asin": "B07VFYR6KM",
+      "name": "Shimano Deore XT M8100 front brake assembly",
+      "category": "Parts",
+      "tier": "premium",
+      "description": "Hydraulic brake upgrade for a compatible front mount.",
+      "fitment": "Check post mount, rotor size, hose length and left lever routing.",
+      "active": true,
+      "subtype": "Brakes"
+    },
+    {
+      "asin": "B07TTK7T8B",
+      "name": "Shimano PD-M8100 XT SPD pedals",
+      "category": "Parts",
+      "tier": "premium",
+      "description": "SPD clipless pedals for efficient trail riding.",
+      "fitment": "Requires SPD cleats and compatible two-bolt shoes; check crank threads.",
+      "active": true,
+      "subtype": "Pedals"
+    },
+    {
+      "asin": "B01BMYHBU4",
+      "name": "Shimano XT SL-M8000 right shifter",
+      "category": "Parts",
+      "tier": "premium",
+      "description": "Replace or upgrade a compatible 11-speed trigger control.",
+      "fitment": "Match Shimano 11-speed rear derailleur and mounting standard.",
+      "active": true,
+      "subtype": "Shifting"
+    },
+    {
+      "asin": "B07SWQZB46",
+      "name": "Shimano XT RD-M8100/8120 rear derailleur",
+      "category": "Parts",
+      "tier": "premium",
+      "description": "Clutch derailleur choice for a compatible 12-speed drivetrain.",
+      "fitment": "Select exact M8100/M8120 variant, cage, gearing and hanger compatibility.",
+      "active": true,
+      "subtype": "Drivetrain"
+    },
+    {
+      "asin": "B07VJ3MP5K",
+      "name": "Shimano XT SM-CRM85 chainring",
+      "category": "Parts",
+      "tier": "premium",
+      "description": "Renew a compatible XT direct mount 1x chainring.",
+      "fitment": "For stated M8100/M8130 cranks; confirm teeth count and chainline.",
+      "active": true,
+      "subtype": "Drivetrain"
+    },
+    {
+      "asin": "B07YYN77R9",
+      "name": "Race Face Aeffect R crankset",
+      "category": "Parts",
+      "tier": "premium",
+      "description": "Alloy crankset for a compatible trail build.",
+      "fitment": "170mm listing; verify spindle, bottom bracket and Cinch ring fit.",
+      "active": true,
+      "subtype": "Cranks"
+    },
+    {
+      "asin": "B093X8LY4W",
+      "name": "Shimano XT FC-M8150 eMTB crank arms",
+      "category": "Parts",
+      "tier": "premium",
+      "description": "Replacement crank arms for compatible Shimano eMTB drive units.",
+      "fitment": "160mm listing; verify motor spindle model and required hardware.",
+      "active": true,
+      "subtype": "Cranks"
+    },
+    {
+      "asin": "B0197LWW9E",
+      "name": "Shimano MTB Optislick cable and housing set",
+      "category": "Parts",
+      "tier": "premium",
+      "description": "Refresh cable shifting with a complete matched set.",
+      "fitment": "Mechanical MTB shift cable; not a brake cable kit.",
+      "active": true,
+      "subtype": "Cables"
+    },
+    {
+      "asin": "B00JNAK37I",
+      "name": "Race Face small alloy crank boots",
+      "category": "Parts",
+      "tier": "unique",
+      "description": "Protect compatible alloy crank tips from scuffs.",
+      "fitment": "Small alloy-crank version; check crank shape.",
+      "active": true,
+      "subtype": "Crank protection"
+    },
+    {
+      "asin": "B007VUONPU",
+      "name": "Race Face 104 BCD offset bashguard",
+      "category": "Parts",
+      "tier": "unique",
+      "description": "Protect a compatible chainring from trail impacts.",
+      "fitment": "104 BCD and 32T listing; verify ring clearance.",
+      "active": true,
+      "subtype": "Chainring protection"
+    },
+    {
+      "asin": "B016VII4WK",
+      "name": "Shimano XT M8000 pulley wheel kit",
+      "category": "Parts",
+      "tier": "unique",
+      "description": "Renew worn derailleur jockey wheels.",
+      "fitment": "For compatible XT RD-M8000 11-speed derailleurs.",
+      "active": true,
+      "subtype": "Derailleur service"
+    },
+    {
+      "asin": "B08CNML1YL",
+      "name": "Shimano XT FC-M8100 crank lock ring and washer",
+      "category": "Parts",
+      "tier": "unique",
+      "description": "Small hardware replacement for a compatible XT crank.",
+      "fitment": "Match FC-M8100 assembly and installation torque specification.",
+      "active": true,
+      "subtype": "Crank hardware"
+    },
+    {
+      "asin": "B07B8VW8FL",
+      "name": "SRAM DUB bottom bracket preload adjuster",
+      "category": "Parts",
+      "tier": "unique",
+      "description": "Replace a damaged compatible DUB preload collar.",
+      "fitment": "SRAM DUB crank compatibility required; not a complete bottom bracket.",
+      "active": true,
+      "subtype": "Crank hardware"
+    },
+    {
+      "asin": "B096YJ12XV",
+      "name": "Pearl iZUMi men's Quest AmFIB jacket",
+      "category": "Apparel",
+      "tier": "premium",
+      "description": "Cold weather cycling outer layer.",
+      "fitment": "Check garment size and layering allowance.",
+      "active": true,
+      "subtype": "Jacket"
+    },
+    {
+      "asin": "B09N2FQMJL",
+      "name": "Pearl iZUMi men's PRO padded bib shorts",
+      "category": "Apparel",
+      "tier": "premium",
+      "description": "Padded bib option for longer rides.",
+      "fitment": "Men's 2022 listing; check exact size, chamois fit and return terms.",
+      "active": true,
+      "subtype": "Bib shorts"
+    },
+    {
+      "asin": "B0BBXSJBJ7",
+      "name": "Giro men's Chrono jersey",
+      "category": "Apparel",
+      "tier": "premium",
+      "description": "Cycling jersey for warm weather riding.",
+      "fitment": "Check size and exact fabric/season variant.",
+      "active": true,
+      "subtype": "Jersey"
+    },
+    {
+      "asin": "B0B8KZCNZ9",
+      "name": "Pearl iZUMi men's thermal cycling tights",
+      "category": "Apparel",
+      "tier": "premium",
+      "description": "Padded thermal coverage for cool rides.",
+      "fitment": "Check size and chamois specification.",
+      "active": true,
+      "subtype": "Tights"
+    },
+    {
+      "asin": "B07QN7GQ2T",
+      "name": "Pearl iZUMi Quest road cycling shoes",
+      "category": "Apparel",
+      "tier": "premium",
+      "description": "Road shoe option for compatible clipless pedals.",
+      "fitment": "Three-bolt sole; check cleat/pedal system and foot sizing.",
+      "active": true,
+      "subtype": "Shoes"
+    },
+    {
+      "asin": "B089NZ1GBK",
+      "name": "Pearl iZUMi men's X-Alp Canyon shoes",
+      "category": "Apparel",
+      "tier": "premium",
+      "description": "Adventure-oriented cycling footwear.",
+      "fitment": "Confirm sole/cleat configuration and sizing on exact listing.",
+      "active": true,
+      "subtype": "Shoes"
+    },
+    {
+      "asin": "B089NYWTKB",
+      "name": "Pearl iZUMi Cyclone gel cycling gloves",
+      "category": "Apparel",
+      "tier": "premium",
+      "description": "Cool weather hand coverage with padded palms.",
+      "fitment": "Check size and temperature suitability.",
+      "active": true,
+      "subtype": "Gloves"
+    },
+    {
+      "asin": "B0CP5R94N2",
+      "name": "Pearl iZUMi women's Quest AmFIB jacket",
+      "category": "Apparel",
+      "tier": "premium",
+      "description": "Women's cold weather cycling layer.",
+      "fitment": "Check fit and layering room.",
+      "active": true,
+      "subtype": "Jacket"
+    },
+    {
+      "asin": "B0C1CMNK2Z",
+      "name": "Pearl iZUMi men's Transfer 4-inch socks",
+      "category": "Apparel",
+      "tier": "premium",
+      "description": "Low bulk socks for cycling footwear.",
+      "fitment": "Check sock size and cuff length.",
+      "active": true,
+      "subtype": "Socks"
+    },
+    {
+      "asin": "B0B8L54K2W",
+      "name": "Pearl iZUMi men's thermal 3/4 bib tights",
+      "category": "Apparel",
+      "tier": "premium",
+      "description": "Below knee coverage for cooler rides.",
+      "fitment": "Check garment size and padded chamois variant.",
+      "active": true,
+      "subtype": "Bib tights"
+    },
+    {
+      "asin": "B07R5QCRM4",
+      "name": "Sealskinz Stanfield extreme cold waterproof socks",
+      "category": "Apparel",
+      "tier": "unique",
+      "description": "Waterproof sock option for wet cold outings.",
+      "fitment": "Select size and verify footwear volume; socks do not replace waterproof footwear.",
+      "active": true,
+      "subtype": "Waterproof socks"
+    },
+    {
+      "asin": "B07R62YZYT",
+      "name": "GORE Wear C3 GORE-TEX helmet cover",
+      "category": "Apparel",
+      "tier": "unique",
+      "description": "Rain cover for a compatible cycling helmet.",
+      "fitment": "Check helmet shape, coverage and attachment fit.",
+      "active": true,
+      "subtype": "Helmet cover"
+    },
+    {
+      "asin": "B014WYYWN0",
+      "name": "Proviz women's REFLECT360 Plus cycling jacket",
+      "category": "Apparel",
+      "tier": "unique",
+      "description": "Reflective outerwear for low light commuting.",
+      "fitment": "Reflective material needs incident light; use active bike lighting too.",
+      "active": true,
+      "subtype": "Reflective jacket"
+    },
+    {
+      "asin": "B078CYWCP2",
+      "name": "GORE Wear Windstopper balaclava",
+      "category": "Apparel",
+      "tier": "unique",
+      "description": "Wind blocking face and neck coverage.",
+      "fitment": "Check fit under helmet without altering helmet seating.",
+      "active": true,
+      "subtype": "Balaclava"
+    },
+    {
+      "asin": "B0B8L3N7SF",
+      "name": "Pearl iZUMi AmFIB Lite skull cap",
+      "category": "Apparel",
+      "tier": "unique",
+      "description": "Low bulk warmth under a compatible helmet.",
+      "fitment": "Check helmet fit with any added liner.",
+      "active": true,
+      "subtype": "Helmet liner"
+    },
+    {
+      "asin": "B07MBBZFNH",
+      "name": "Shimano STEPS BT-E8014 418Wh battery",
+      "category": "Batteries",
+      "tier": "premium",
+      "description": "OEM traction battery for a compatible Shimano STEPS system.",
+      "fitment": "Downtube type; verify exact mount, drive system and charger compatibility.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0GLY42DWD",
+      "name": "Yose Power 48V 13Ah downtube battery",
+      "category": "Batteries",
+      "tier": "premium",
+      "description": "Aftermarket traction pack for a correctly matched conversion.",
+      "fitment": "20A maximum stated; verify dimensions, mounting rail, voltage, connector and charger.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0DXBP9S1K",
+      "name": "Yose Power 48V 15.6Ah Hammer Silverfish battery",
+      "category": "Batteries",
+      "tier": "premium",
+      "description": "Aftermarket replacement for the listed ECOTRIC Hammer platform.",
+      "fitment": "75×107.5×434.6mm stated; charger not included; verify exact bike fit.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0FSS9LDKR",
+      "name": "Yose Power 48V 14Ah RadRunner 3 Plus battery",
+      "category": "Batteries",
+      "tier": "premium",
+      "description": "Aftermarket semi-integrated pack for listed compatible Rad models.",
+      "fitment": "Verify exact Rad model, interface and mount; not an OEM Rad battery; charger not included.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0DFXS3PK3",
+      "name": "Yose Power 48V Dorado Plus Aventon Pace 500 battery",
+      "category": "Batteries",
+      "tier": "premium",
+      "description": "Aftermarket Dorado case replacement for listed Pace 500 applications.",
+      "fitment": "Listing has 12.8Ah/16Ah options; verify selected capacity, original rail and bike generation.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0F5MMWVF2",
+      "name": "Yose Power 52V 19.2Ah ZZ059 Juiced battery",
+      "category": "Batteries",
+      "tier": "premium",
+      "description": "Aftermarket traction pack for listed Juiced platforms.",
+      "fitment": "Verify original 52V system and case/interface; charger not included.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0FS1M5PL6",
+      "name": "Yose Power 48V 13Ah Heybike Mars 1.0 battery",
+      "category": "Batteries",
+      "tier": "premium",
+      "description": "Aftermarket replacement for the stated Mars 1.0 platform.",
+      "fitment": "75×111×390.5mm stated; 20A maximum; verify original rail and charger.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0CS5X2YB5",
+      "name": "Yose Power 48V 20.8Ah rear rack battery",
+      "category": "Batteries",
+      "tier": "premium",
+      "description": "Rack mounted traction pack for a compatible custom build.",
+      "fitment": "40A BMS stated; verify rack/mount load, electrical ratings and connector.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0FDWNTLZ9",
+      "name": "BAFANG-branded 48V Hailong conversion battery",
+      "category": "Batteries",
+      "tier": "premium",
+      "description": "Downtube battery listing for compatible conversion builds.",
+      "fitment": "Listing offers 17Ah/19.2Ah; verify selected case, mount, connector and controller current.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0DLFS96VC",
+      "name": "Yose Power 36V 13Ah Jasion EB5 battery",
+      "category": "Batteries",
+      "tier": "premium",
+      "description": "Aftermarket battery for the stated Jasion EB5 platform.",
+      "fitment": "367.5×95×89mm stated; verify exact bike version, rail and electrical interface.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0GBVKJX73",
+      "name": "Yose Power 52V 17.5Ah Pedego-compatible battery",
+      "category": "Batteries",
+      "tier": "unique",
+      "description": "Aftermarket rear battery for specifically listed Pedego platforms.",
+      "fitment": "Verify 52V compatibility, original case and connectors; charger not included; not OEM Pedego.",
+      "active": true,
+      "subtype": "E-bike traction battery"
+    },
+    {
+      "asin": "B0B1KP6CCT",
+      "name": "Shimano Di2 BT-DN300 shifting battery",
+      "category": "Batteries",
+      "tier": "unique",
+      "description": "Power for compatible electronic shifting systems.",
+      "fitment": "Di2 accessory battery only; does not power an e-bike motor.",
+      "active": true,
+      "subtype": "Electronic shifting battery"
+    },
+    {
+      "asin": "B00JHKSL1O",
+      "name": "Panasonic eneloop Pro AA battery and charger kit",
+      "category": "Batteries",
+      "tier": "unique",
+      "description": "Reusable AA power for compatible lights and outdoor electronics.",
+      "fitment": "NiMH AA cells; confirm device voltage and battery chemistry support.",
+      "active": true,
+      "subtype": "Accessory batteries"
+    },
+    {
+      "asin": "B095FCY299",
+      "name": "Goal Zero Venture 75 outdoor power bank",
+      "category": "Batteries",
+      "tier": "unique",
+      "description": "Rugged USB backup for phones, GPS and compatible ride electronics.",
+      "fitment": "USB device power only; not a motor traction battery or direct e-bike charger.",
+      "active": true,
+      "subtype": "Outdoor USB power"
+    },
+    {
+      "asin": "B0BX364B54",
+      "name": "NESTOUT 15000mAh rugged outdoor power bank",
+      "category": "Batteries",
+      "tier": "unique",
+      "description": "Portable USB power for outdoor ride electronics.",
+      "fitment": "USB device power only; not an e-bike motor battery; beige listing.",
+      "active": true,
+      "subtype": "Outdoor USB power"
+    },
+    {
+      "asin": "B00B1OSU4W",
+      "name": "Sawyer Squeeze SP129",
+      "category": "Outdoor adventure",
+      "tier": "premium",
+      "description": "Compact water filtration for bikepacking stops. Follow source-water and maintenance instructions.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B01N5O7551",
+      "name": "MSR PocketRocket 2",
+      "category": "Outdoor adventure",
+      "tier": "premium",
+      "description": "Compact canister stove for a lightweight camp kitchen; fuel and cookware are separate.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0CB9JLV5F",
+      "name": "NEMO Tensor Extreme sleeping pad",
+      "category": "Outdoor adventure",
+      "tier": "premium",
+      "description": "Insulated sleeping pad for colder overnight trips; confirm packed dimensions and repair kit.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B01M07GTOE",
+      "name": "Helinox Chair Zero",
+      "category": "Outdoor adventure",
+      "tier": "premium",
+      "description": "Packable camp chair for a comfortable stop without a full-size chair.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0BVWQ56P6",
+      "name": "Sea to Summit Big River 20L dry bag",
+      "category": "Outdoor adventure",
+      "tier": "premium",
+      "description": "Organize clothing and camp layers; attach only with suitable cargo straps.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0DV6PDY9R",
+      "name": "Adventure Medical Kits Ultralight/Watertight .5",
+      "category": "Outdoor adventure",
+      "tier": "premium",
+      "description": "Compact first-aid storage for day rides and overnight outings; check contents and expiry.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B09PSSSFPF",
+      "name": "Garmin inReach Mini 2",
+      "category": "Outdoor adventure",
+      "tier": "premium",
+      "description": "Satellite messaging for remote routes; subscription and clear sky view required.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:00:36.192Z"
+    },
+    {
+      "asin": "B0DSCQGTJ8",
+      "name": "Osprey Talon 22",
+      "category": "Outdoor adventure",
+      "tier": "premium",
+      "description": "Daypack for extra layers, food, and personal essentials; confirm torso fit.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0DXQB1JB5",
+      "name": "Jetboil Flash 1.0L",
+      "category": "Outdoor adventure",
+      "tier": "premium",
+      "description": "Integrated camp boiling system for meals and drinks; use outdoors with compatible fuel.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0C1JHC2M6",
+      "name": "GRAYL GeoPress 24 oz",
+      "category": "Outdoor adventure",
+      "tier": "premium",
+      "description": "Press-style water treatment bottle for travel and trail use; follow cartridge instructions.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0GH1PPCW7",
+      "name": "Flextail Zero Pump 2",
+      "category": "Outdoor adventure",
+      "tier": "unique",
+      "description": "Tiny inflator for camp sleeping pads; not a bicycle tire pump.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0797T2FYL",
+      "name": "WACACO Nanopresso",
+      "category": "Outdoor adventure",
+      "tier": "unique",
+      "description": "Manual espresso maker for camp coffee; bring hot water and ground coffee.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B08NC9BLQ5",
+      "name": "SOL Emergency Bivvy",
+      "category": "Outdoor adventure",
+      "tier": "unique",
+      "description": "Small emergency shelter backup; does not replace a sleep system for planned overnight trips.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B072N2N9RH",
+      "name": "Vargo Titanium Dig Dig Tool",
+      "category": "Outdoor adventure",
+      "tier": "unique",
+      "description": "Compact trail trowel that can double as a stake; follow local waste disposal rules.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B09B2TVKGB",
+      "name": "Aquatabs 49mg purification tablets",
+      "category": "Outdoor adventure",
+      "tier": "unique",
+      "description": "Lightweight chemical water treatment backup; dose and contact time must follow label.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B00T6IR3KC",
+      "name": "ORTLIEB Back-Roller Classic QL2.1 pair",
+      "category": "Accessories",
+      "tier": "premium",
+      "description": "Weather-resistant rear panniers for commuting; check rack rail diameter and heel clearance.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0D6HDD5LF",
+      "name": "Topeak MTX TrunkBag",
+      "category": "Accessories",
+      "tier": "premium",
+      "description": "Rear rack storage; requires a compatible MTX QuickTrack rack.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B09FSFG4ZT",
+      "name": "Peak Design Mobile Out Front Bike Mount",
+      "category": "Accessories",
+      "tier": "premium",
+      "description": "Machined phone mount; compatible SlimLink case or adapter required.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B06XCH21YH",
+      "name": "Kryptonite New York Standard U-Lock",
+      "category": "Accessories",
+      "tier": "premium",
+      "description": "Heavy-duty lock for locking the frame to a fixed anchor; check usable shackle clearance.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0CCS2PHPF",
+      "name": "ABUS Granit Super Extreme 2500",
+      "category": "Accessories",
+      "tier": "premium",
+      "description": "High-security U-lock for higher-value bikes; check mount and shackle dimensions.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0B276QYNM",
+      "name": "Garmin Edge Explore 2",
+      "category": "Accessories",
+      "tier": "premium",
+      "description": "GPS ride navigation; e-bike data compatibility depends on the bike's electronics.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B06XWRMZZF",
+      "name": "Hafny HF-MR095 left mirror",
+      "category": "Accessories",
+      "tier": "premium",
+      "description": "Adjustable rear view for commuting; check clamp diameter and control clearance.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B085KK2Z71",
+      "name": "Topeak FrontLoader",
+      "category": "Accessories",
+      "tier": "premium",
+      "description": "Handlebar cargo bag for bulky lightweight gear; check tire and cable clearance.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B000FIE45O",
+      "name": "Topeak Aero Wedge large saddle bag",
+      "category": "Accessories",
+      "tier": "premium",
+      "description": "Under-seat storage for tube and repair kit; verify saddle rail and seatpost clearance.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:00:36.432Z"
+    },
+    {
+      "asin": "B00NU9X0ZA",
+      "name": "Blackburn Outpost rear rack",
+      "category": "Accessories",
+      "tier": "premium",
+      "description": "Cargo rack for adventure builds; verify axle, mounting points, and load limits.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0859K4PF5",
+      "name": "Spurcycle Original Bell",
+      "category": "Accessories",
+      "tier": "unique",
+      "description": "Compact metal bell for shared paths; verify handlebar clamp fit.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0BDRBMV5C",
+      "name": "Knog Scout alarm and finder",
+      "category": "Accessories",
+      "tier": "unique",
+      "description": "Bottle-cage-mounted alarm and finder; Apple Find My compatibility requires an Apple device.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B00NT4KXBA",
+      "name": "Blackburn Outpost Cargo Cage",
+      "category": "Accessories",
+      "tier": "unique",
+      "description": "Carry a dry bag or oversized bottle; use suitable bosses, straps, and fork load limits.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0033VNCTE",
+      "name": "Topeak TrolleyTote folding rear basket",
+      "category": "Accessories",
+      "tier": "unique",
+      "description": "Wheeled folding basket for errands; requires a compatible MTX rack.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B08BL29X9R",
+      "name": "ORTLIEB Commuter Bag Insert",
+      "category": "Accessories",
+      "tier": "unique",
+      "description": "Organize compatible panniers for workday carry; check bag dimensions.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true
+    },
+    {
+      "asin": "B0HHS2DQMB",
+      "name": "Camping sleeping pad with built-in pump",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Budget camp sleep pad; confirm dimensions and temperature suitability.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:00:48.527Z"
+    },
+    {
+      "asin": "B0992X3GX3",
+      "name": "Orblue 4-in-1 camping utensils, 2-pack",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Compact eating utensils for camp meals.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:00:49.682Z"
+    },
+    {
+      "asin": "B0BS1T9J4Y",
+      "name": "Garmin Forerunner 265",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "GPS sports watch for ride and outdoor training.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:01:33.182Z"
+    },
+    {
+      "asin": "B0D7QHY574",
+      "name": "Coleman Sundome tent — listing Y574",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Sundome shelter variant; confirm selected capacity and color at Amazon.",
+      "fitment": "Sundome listing variant; confirm occupancy, dimensions and color on Amazon before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:01:32.907Z"
+    },
+    {
+      "asin": "B0D7QFZNS7",
+      "name": "Coleman Sundome tent — listing ZNS7",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Sundome shelter variant; confirm selected capacity and color at Amazon.",
+      "fitment": "Sundome listing variant; confirm occupancy, dimensions and color on Amazon before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:01:32.907Z"
+    },
+    {
+      "asin": "B0D7QN9S9Q",
+      "name": "Coleman Sundome tent — listing 9S9Q",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Sundome shelter variant; confirm selected capacity and color at Amazon.",
+      "fitment": "Sundome listing variant; confirm occupancy, dimensions and color on Amazon before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:01:32.907Z"
+    },
+    {
+      "asin": "B0D7QG9H85",
+      "name": "Coleman Skydome tent",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Camp shelter for adventures with a trailer or vehicle; check packed weight.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:01:32.907Z"
+    },
+    {
+      "asin": "B0D7QKP7MS",
+      "name": "Coleman Skydome Dark Room tent",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Darkened tent option for base-camp use; confirm selected capacity.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:01:32.907Z"
+    },
+    {
+      "asin": "B0D7QJ9GYP",
+      "name": "Coleman Skydome tent with screened porch",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Base-camp shelter with a screened storage area; confirm selected capacity.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:01:32.717Z"
+    },
+    {
+      "asin": "B0CS54SN91",
+      "name": "Therm-a-Rest NeoAir XTherm NXT",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Insulated packable sleeping pad; confirm selected dimensions.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:02:27.650Z"
+    },
+    {
+      "asin": "B09NMKGRMZ",
+      "name": "Garmin Instinct 2 Solar",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Rugged GPS outdoor watch with solar support; selected size needs checking.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:02:28.023Z"
+    },
+    {
+      "asin": "B0DSG9VCRH",
+      "name": "Garmin Instinct 3 Solar, 45mm",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Solar-supported GPS outdoor watch for trail activity.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:02:28.023Z"
+    },
+    {
+      "asin": "B0DSC8JF59",
+      "name": "Garmin Instinct 3 AMOLED, 45mm",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "GPS outdoor watch with an AMOLED display.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:02:27.908Z"
+    },
+    {
+      "asin": "B004J2FB5Y",
+      "name": "Coleman Heritage Big & Tall 10°F sleeping bag",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Roomier cold-weather camping bag; verify packed bulk for bike transport.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:02:27.908Z"
+    },
+    {
+      "asin": "B0D6416YYW",
+      "name": "Coleman Brazos 30°F sleeping bag",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Cool-weather camp sleeping bag; verify sizing and comfort needs.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:02:27.778Z"
+    },
+    {
+      "asin": "B0D63ZSKL4",
+      "name": "Coleman Palmetto 30°F sleeping bag",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Camp sleeping bag with a separate stuff sack; verify fit and conditions.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:02:27.778Z"
+    },
+    {
+      "asin": "B0BFBZR4KW",
+      "name": "Garmin inReach Messenger",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Satellite messaging device for remote routes; subscription required.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:02:54.918Z"
+    },
+    {
+      "asin": "B0BVWJS5LC",
+      "name": "Sea to Summit Lightweight Dry Bag",
+      "category": "Outdoor adventure",
+      "tier": "clearance",
+      "description": "Roll-top storage for camp clothing; verify selected capacity.",
+      "fitment": "Confirm the exact size, selected option and intended use before ordering.",
+      "active": true,
+      "clearance": true,
+      "clearanceCheckedAt": "2026-11-17T02:02:54.918Z"
+    }
+  ]
+}
